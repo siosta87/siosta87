@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Siobhan! <br/><a href="https://siosta87">Google IT Support Apprentice</a>, <a href="https://www.linkedin.com/in/siobhan-stack-73059b2ba/">IT Professional</a>, <a 
+                                                                                                                                                                          
+<h2>  IT Related Projects:</h2>
+
+[Active Directory Home Lab]
+[Hello World!
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="SiobhanStack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/siobhan-stack-73059b2ba/
 
 <!--
 **siosta87/siosta87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
