@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siobhan! <br/><a href="https://siosta87">Google IT Support Apprentice</a>, <a href="https://www.linkedin.com/in/siobhan-stack-73059b2ba/">IT Professional</a>, <a 
+[Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)<h1>Hi, I'm Siobhan! <br/><a href="https://siosta87">Google IT Support Apprentice</a>, <a href="https://www.linkedin.com/in/siobhan-stack-73059b2ba/">IT Professional</a>, <a 
                                                                                                                                                                           
 <h2>  IT Related Projects:</h2>
 
