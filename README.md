@@ -1,4 +1,4 @@
-[Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)
+<span style="color: #007ec6;">This text will be colored.[Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)</span>
 
 # Hi, I'm Siobhan! 
 [Google IT Support Apprentice](https://siosta87) | [IT Professional](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
@@ -12,7 +12,7 @@ Hello! I am an IT professional transitioning into cybersecurity through a hands-
 * **[Ansible Beginner Project](https://github.com/siosta87/ansible-beginner-project)**
 * **[Jamf MDM Lab](https://github.com/siosta87/jamf-mdm-lab)**
 
-### Coming Soon..
+### Stay Tuned..
 * **TryHackMe Journal:** Coming Soon
 * **Incident Handler's Journal:** Coming Soon
 * **Vulnerable System Analysis:** Coming Soon
@@ -23,4 +23,4 @@ Hello! I am an IT professional transitioning into cybersecurity through a hands-
 * **SQL Query:** Coming Soon
 
 ## Connect with me:
-[![SiobhanStack | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](www.linkedin.com/in/siobhan-stack)
+[![SiobhanStack | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
