@@ -1,32 +1,16 @@
 [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)
-<h1>Hi, I'm Siobhan! <br/><a 
+
+# Hi, I'm Siobhan! 
+[Google IT Support Apprentice](https://siosta87) | [IT Professional](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
+
 ## About Me
-Hello! I am an IT professional transitioning into cybersecurity through a hands-on apprenticeship. With a strong foundation in IT support and networking, my core interests include threat analysis, incident response, and securing network infrastructures against vulnerabilities.                                                         href="https://siosta87">Google IT Support Apprentice</a>, <a href="https://www.linkedin.com/in/siobhan-stack-73059b2ba/">IT Professional</a>, <a 
-                                                                                                                                                                          
-<h2>  IT Related Projects:</h2>
+Hello! I am an IT professional transitioning into cybersecurity through a hands-on apprenticeship. With a strong foundation in IT support and networking, my core interests include threat analysis, incident response, and securing network infrastructures against vulnerabilities.
 
-[Active Directory Home Lab]
-[Hello World!
+## Projects
+* **TryHackMe Journal:** Coming Soon
+* **Incident Handler's Journal:** Coming Soon
+* **Vulnerable System Analysis:** Coming Soon
+* **SQL Query:** Coming Soon
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="SiobhanStack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/siobhan-stack-73059b2ba/
-
-<!--
-**siosta87/siosta87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![SiobhanStack | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
