@@ -7,6 +7,8 @@
 Hello! I am an IT professional transitioning into cybersecurity through a hands-on apprenticeship. With a strong foundation in IT support and networking, my core interests include threat analysis, incident response, and securing network infrastructures against vulnerabilities.
 
 ## Projects
+* **[Active Directory Home Lab](https://github.com/siosta87/ActiveDirectoryLab):** Description of your lab.
+* **[Network Automation Lab](https://github.com/siosta87/Network-Automation-Lab):** Description of your lab.
 * **TryHackMe Journal:** Coming Soon
 * **Incident Handler's Journal:** Coming Soon
 * **Vulnerable System Analysis:** Coming Soon
