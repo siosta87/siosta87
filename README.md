@@ -1,5 +1,4 @@
-<span style="color: #007ec6;">This text will be colored.[Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)</span>
-
+[Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)
 # Hi, I'm Siobhan! 
 [Google IT Support Apprentice](https://siosta87) | [IT Professional](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
 
