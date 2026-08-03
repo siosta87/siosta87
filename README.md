@@ -1,6 +1,7 @@
+<h1 style="color: #ff1493;">Hi, I'm Siobhan!</h1>
 [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)
 # Hi, I'm Siobhan! 
-[Google IT Support Apprentice](https://siosta87) | [IT Professional](https://www.linkedin.com/in/siobhan-stack-73059b2ba/)
+
 
 ## About Me
 Hello! I am an IT professional transitioning into cybersecurity through a hands-on apprenticeship. With a strong foundation in IT support and networking, my core interests include threat analysis, incident response, and securing network infrastructures against vulnerabilities.
