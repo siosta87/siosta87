@@ -1,6 +1,6 @@
-<h1 style="color: #ff1493;">Hi, I'm Siobhan!</h1>
+
 [Home](#home) | [About Me](#about-me) | [Projects](#projects) | [Contact](#contact)
-# Hi, I'm Siobhan! 
+<h1 style="color: #ff1493;">Hi, I'm Siobhan!</h1>
 
 
 ## About Me
